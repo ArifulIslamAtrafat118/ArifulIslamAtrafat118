@@ -1,13 +1,13 @@
+<h1 align="">Hi there 👋, I'm Ariful Islam Arafat</h1>
 <!-- Banner Image -->
 <p align="center">
-  <img src="" alt="Banner" width="100%" />
+  <img src="./Image/banner.png" alt="Banner" width="100%" />
 </p>
 
 <!-- Name & Designation -->
-<h1 align="center">Hi there 👋, I'm Ariful Islam Arafat</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<!--  -->
+<!-- <h3 align="center">Full Stack Web Developer</h3> -->
 
----
 
 ## 💡 About Me  
 I am a passionate and detail-oriented Full Stack Web Developer from Bangladesh, with a strong foundation in modern web technologies.  
