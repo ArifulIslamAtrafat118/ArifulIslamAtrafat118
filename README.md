@@ -7,6 +7,20 @@
 <!-- Name & Designation -->
 <!--  -->
 <!-- <h3 align="center">Full Stack Web Developer</h3> -->
+## 🌐 Connect with Me  
+<p align="center">
+  <a href="https://github.com/ArifulIslamAtrafat118" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/ariful-islam-arafat" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/arafatofficialbd" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+  </a>
+</p>
+
+---
 
 
 ## 💡 About Me  
@@ -17,7 +31,7 @@ Always excited to learn, grow, and contribute to impactful projects.
 ---
 
 ## 🚀 Current Activities  
-- 🔭 I’m currently working on a **tourism website** project.  
+- 🔭 I’m currently working on a **MERN stack** project.  
 - 🌱 I’m exploring **Next.js** for building scalable and SEO-friendly apps.  
 - 📚 Improving my skills in **React, Node.js, and MongoDB**.  
 - 🤝 Open to collaborating on open-source projects.
@@ -43,20 +57,6 @@ Always excited to learn, grow, and contribute to impactful projects.
 
 ---
 
-## 🌐 Connect with Me  
-<p align="left">
-  <a href="https://github.com/ArifulIslamAtrafat118" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/ariful-islam-arafat" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/arafatofficialbd" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
-  </a>
-</p>
-
----
 
 ## 📊 GitHub Stats  
 <p align="center">
